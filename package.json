@@ -1,0 +1,29 @@
+{
+  "name": "react-native-compat",
+  "version": "0.0.1",
+  "description": "Compatibility package for earlier versions of react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.27.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajwhite/react-native-compat.git"
+  },
+  "keywords": [
+    "react-native",
+    "compat",
+    "compatibility",
+    "legacy"
+  ],
+  "author": "Atticus White <contact@atticuswhite.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajwhite/react-native-compat/issues"
+  },
+  "homepage": "https://github.com/ajwhite/react-native-compat#readme"
+}
