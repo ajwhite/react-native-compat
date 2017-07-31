@@ -1,6 +1,6 @@
 {
   "name": "react-native-compat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compatibility package for earlier versions of react-native",
   "main": "dist/index.js",
   "scripts": {
